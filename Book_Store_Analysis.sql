@@ -181,7 +181,7 @@ From orders As o
 Join customers as c on c.customer_id = o.customer_id
 Group by c.customer_id, c.name
 order by Total_Spent Desc
-Limit 3;
+Limit 1;
 
 --9) Calculate the stock remaining after fulfilling all orders
 
