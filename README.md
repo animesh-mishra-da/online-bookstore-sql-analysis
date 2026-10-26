@@ -101,4 +101,7 @@ The database has 3 tables:
  - Run the import commands, then run the queries one by one.
 
 ## Author
-Animesh Mishra Email: mishra.animesh2005@gmail.com LinkedIn: [Animesh Mishra](https://www.linkedin.com/in/animesh-mishra-da/)
+Animesh Mishra 
+- Email: mishra.animesh2005@gmail.com 
+- LinkedIn: [Animesh Mishra](https://www.linkedin.com/in/animesh-mishra-da/)
+- GitHub: [animesh-mishra-da](https://github.com/animesh-mishra-da)
